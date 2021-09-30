@@ -10,6 +10,7 @@ package rekursif;
  * @author Jesslyn
  */
 public class Rekursif {
+    int k = 0;
   static int faktorial(int num) {
     if(num == 0){
       return 1;
