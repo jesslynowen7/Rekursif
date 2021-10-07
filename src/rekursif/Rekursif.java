@@ -12,6 +12,7 @@ package rekursif;
 public class Rekursif {
     int k = 0;
   static int faktorial(int num) {
+      //tes komen
     if(num == 0){
       return 1;
     }
